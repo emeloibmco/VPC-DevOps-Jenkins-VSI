@@ -3,12 +3,12 @@
 En esta guía encontrará el paso a paso para el despliegue de una aplicación NodeJS en una VSI en VPC dentro de IBM Cloud, haciendo uso de Jenkins como servidor de integración continua.
 
 <p align="center">
- <img width="700" alt="imp_records" src="Gifs/Portada.PNG"> 
+ <img width="700" alt="imp_records" src="Gifs/Portada2.png"> 
 </p>
 
 ### Contenido 
 
-1. [Pre-requisitos](#Pre-requisitos-)
+1. [Pre-requisitos](#pre-requisitos)
 2. [Creación del proyecto en Jenkins](#creación-del-proyecto-en-jenkins-)
 3. [Configuración de la comunicación SSH (Pluguin de SSH)](#configuración-de-la-comunicación-ssh-)
 4. [Despliegue del pipeline](#despliegue-)
